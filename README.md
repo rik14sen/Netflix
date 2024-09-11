@@ -2,8 +2,7 @@
 
 
 
-Netflix
-//NETFLIX SQL PROJECT//
+
 
 select * from netflix
 
