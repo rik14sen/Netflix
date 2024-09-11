@@ -1,6 +1,5 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 ![netflix logo](Netflixclone.jpg)
- ![VIEW](pgAdmin 4.png)
 
 ## OBJECTIVE
 Analyze the distribution of content types (movies vs TV shows).
