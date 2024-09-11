@@ -8,7 +8,7 @@ List and analyze content based on release years, countries, and durations.
 Explore and categorize content based on specific criteria and keywords.
 
 ## DATSEET 
-Dataset of this movie - (neflix project.sql)
+Dataset of this movie- neflix project.sql
 
 
 
