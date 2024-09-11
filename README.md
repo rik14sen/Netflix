@@ -1,8 +1,8 @@
-Netflix Movies and TV Shows Data Analysis using SQL
+#Netflix Movies and TV Shows Data Analysis using SQL
 
 
 
-#Netflix#
+Netflix
 //NETFLIX SQL PROJECT//
 
 select * from netflix
